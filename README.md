@@ -2,7 +2,7 @@
 
 10.0.2.4
 K1034636dd936931fa53aa450aa293adbfbb257fae5516f8df8618f4a56dd1395cb::server:380f3c8cb94678641913951683583aaf
-
+curl -sfL https://get.k3s.io | K3S_URL=https://10.0.2.4:6443 K3S_TOKEN=K1034636dd936931fa53aa450aa293adbfbb257fae5516f8df8618f4a56dd1395cb::server:380f3c8cb94678641913951683583aaf sh -
 
 
 This second programming assignment will require you to write an R
